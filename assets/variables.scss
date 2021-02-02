@@ -1,0 +1,32 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+
+// overwriting letter spacing
+.v-btn {
+  letter-spacing: -0.025em !important;
+}
+.v-application {
+  .text-h1,
+  .text-h2,
+  .text-h3,
+  .text-h4,
+  .text-h5,
+  .text-h6,
+  .text-headline,
+  .text-subtitle-1,
+  .text-subtitle-2,
+  .text-body-1,
+  .text-body-2,
+  .text-caption,
+  .text-overline {
+    letter-spacing: 0em !important;
+    word-break: break-word;
+  }
+}
+
+// overwriting input font size
+.v-text-field {
+  font-size: small !important;
+}

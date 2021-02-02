@@ -1,0 +1,24 @@
+Project TO-DO:
+
+    Front-End:
+        ✔ change more info to navigation @done (12/12/2020, 11:42:52 AM)
+        ✔ card tu jadi 4 card @done (12/18/2020, 9:56:37 AM)
+        ✔ remove distance @done (12/18/2020, 1:18:46 PM)
+        ✔ change default img to icon img @done (12/18/2020, 1:19:02 PM)
+        ✔ Add "please check data location" to search @done (12/19/2020, 11:37:24 AM)
+        ✔ add service and panel icon in list cards and moreInfo @done (12/19/2020, 9:28:30 PM)
+        ✔ update location request @done (12/19/2020, 10:00:45 PM)
+        ✔ update appointment form @done (12/22/2020, 11:51:36 PM)
+        ☐ update service n panel
+        ☐ update operating hours
+        ☐ view location indicator by range
+
+    Dev Ops:
+        ✔ setup server @done (12/19/2020, 11:46:05 AM)
+        ☐ setup automation
+
+    Back-end:
+        ✔ Understanding api flow @done (12/19/2020, 11:46:09 AM)
+        ☐ operating hour change from string to proper array structure
+        ☐ return search and update radius automatically
+        ☐ if no data within radius, update radius n return automatically
